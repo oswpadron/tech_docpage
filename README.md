@@ -4,7 +4,7 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./Screenshot_5.png)
+![screenshot](./Screenshot_6.png)
 
 Additional description about the project and its features.
 
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://oswpadron.github.io/survey_form/)
+[Live Demo Link](https://oswpadron.github.io/tech_docpage/)
 
 
 ## Getting Started
@@ -53,7 +53,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/oswpadron/survey_form/issues).
+Feel free to check the [issues page](https://github.com/oswpadron/tech_docpage/issues).
 
 ## Show your support
 
